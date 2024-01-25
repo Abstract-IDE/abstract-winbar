@@ -63,10 +63,8 @@ local function winbar()
 end
 
 function M.setup(opts)
-	-- overide default options with user-defined options
-	if opts ~= nil then
-		configs = vim.tbl_extend("force", configs, opts)
-	end
+	-- Override default options with user-defined options
+	local exclude_filetypes = vim.tbl_extend("force", configs.exclude_filetypes, opts.exclude_filetypes or {})
 
 	vim.api.nvim_create_augroup("AbstractWinbarAutoGroup", { clear = true })
 	vim.api.nvim_create_autocmd(
@@ -76,8 +74,8 @@ function M.setup(opts)
 			pattern = "*",
 			group = "AbstractWinbarAutoGroup",
 			callback = function()
-				-- disable winbar in these filetypes
-				if vim.tbl_contains(configs.exclude_filetypes, vim.bo.filetype) then
+				-- Disable winbar in excluded filetypes
+				if vim.tbl_contains(exclude_filetypes, vim.bo.filetype) then
 					return
 				end
 				winbar()
