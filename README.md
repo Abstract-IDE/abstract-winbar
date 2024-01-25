@@ -23,7 +23,8 @@
 ## About The Project
 
 `abstract-winbar` is a Neovim plugin that enhances code editing by providing a dynamic status bar. Built on top of the Navic plugin, it offers essential file information, modification indicators, and seamless integration with Navic for efficient code navigation.
-![Screen Shot](https://github.com/Abstract-IDE/abstract-winbar/assets/41078534/0335bdc0-f5df-4581-bb47-2ff5271bf1bc)
+![Screenshot](https://github.com/Abstract-IDE/abstract-winbar/assets/41078534/51be4e7f-1fb6-44a8-b7f9-bc01faafbfd7)
+
 
 ## Getting Started
 
