@@ -1,0 +1,36 @@
+local M = {}
+
+M.exclude_filetypes = {
+	"",
+	"alpha",
+	"dap-repl",
+	"dap-terminal",
+	"dapui_breakpoints",
+	"dapui_console",
+	"dapui_scopes",
+	"dapui_stacks",
+	"dapui_watches",
+	"dashboard",
+	"DressingSelect",
+	"harpoon",
+	"help",
+	"Jaq",
+	"lab",
+	"lazy",
+	"lir",
+	"Markdown",
+	"mason",
+	"neo-tree",
+	"neogitstatus",
+	"notify",
+	"NvimTree",
+	"Outline",
+	"packer",
+	"spectre_panel",
+	"startify",
+	"TelescopePrompt",
+	"toggleterm",
+	"Trouble",
+}
+
+return M
