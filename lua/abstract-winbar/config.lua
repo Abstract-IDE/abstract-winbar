@@ -34,6 +34,7 @@ M.exclude_filetypes = {
 	"netrw",
 	"noice",
 	"notify",
+	"null-ls-info",
 	"packer",
 	"spectre_panel",
 	"startify",
