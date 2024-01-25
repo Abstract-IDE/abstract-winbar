@@ -26,6 +26,7 @@ M.exclude_filetypes = {
 	"lab",
 	"lazy",
 	"lir",
+	"lspinfo",
 	"mason",
 	"neo-tree",
 	"neogitstatus",
