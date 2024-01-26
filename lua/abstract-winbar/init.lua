@@ -1,5 +1,5 @@
 local navic = require("nvim-navic")
-local configs = require("abstract-winbar.config")
+local configs = require("abstract-winbar.configs")
 local funcs = require("abstract-winbar.funcs")
 
 local M = {}
