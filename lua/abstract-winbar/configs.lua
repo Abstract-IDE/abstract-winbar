@@ -29,6 +29,7 @@ M.exclude_filetypes = {
 	"lspinfo",
 	"mason",
 	"neo-tree",
+	"neo-tree-popup",
 	"neogitstatus",
 	"neotest-summary",
 	"netrw",
@@ -42,6 +43,7 @@ M.exclude_filetypes = {
 	"spectre_panel",
 	"startify",
 	"toggleterm",
+	"checkhealth"
 }
 
 return M
