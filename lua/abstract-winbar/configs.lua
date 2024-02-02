@@ -11,6 +11,9 @@ M.exclude_filetypes = {
 	"TelescopePrompt",
 	"Trouble",
 	"alpha",
+	"checkhealth",
+	"cmp_doc",
+	"cmp_menu",
 	"dap-repl",
 	"dap-terminal",
 	"dapui_breakpoints",
@@ -43,7 +46,6 @@ M.exclude_filetypes = {
 	"spectre_panel",
 	"startify",
 	"toggleterm",
-	"checkhealth"
 }
 
 return M
