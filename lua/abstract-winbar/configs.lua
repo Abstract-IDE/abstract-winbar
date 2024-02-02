@@ -12,7 +12,7 @@ M.exclude_filetypes = {
 	"Trouble",
 	"alpha",
 	"checkhealth",
-	"cmp_doc",
+	"cmp_docs",
 	"cmp_menu",
 	"dap-repl",
 	"dap-terminal",
