@@ -17,6 +17,7 @@ M.exclude_filetypes = {
 	"dashboard",
 	"DressingSelect",
 	"git",
+	"grapple",
 	"harpoon",
 	"help",
 	"Jaq",
