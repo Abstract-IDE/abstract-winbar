@@ -26,6 +26,7 @@ M.exclude_filetypes = {
 	"lir",
 	"lspinfo",
 	"Markdown",
+	"markdown",
 	"mason",
 	"neo-tree",
 	"neo-tree-popup",
