@@ -47,7 +47,8 @@ M.exclude_filetypes = {
 	"startify",
 	"TelescopePrompt",
 	"toggleterm",
-	"Trouble",
+	"Trouble", -- will remove this after some time as trouble v3 is released
+	"trouble",
 	"vim",
 }
 
