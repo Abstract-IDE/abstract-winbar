@@ -25,6 +25,7 @@ M.exclude_filetypes = {
 	"lazy",
 	"lir",
 	"lspinfo",
+	"man",
 	"Markdown",
 	"markdown",
 	"mason",
@@ -47,7 +48,6 @@ M.exclude_filetypes = {
 	"startify",
 	"TelescopePrompt",
 	"toggleterm",
-	"Trouble", -- will remove this after some time as trouble v3 is released
 	"trouble",
 	"vim",
 }
