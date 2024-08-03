@@ -43,6 +43,7 @@ M.exclude_filetypes = {
 	"oil_preview",
 	"Outline",
 	"packer",
+	"PlenaryTestPopup",
 	"qf",
 	"spectre_panel",
 	"startify",
