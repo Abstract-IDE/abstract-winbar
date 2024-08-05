@@ -3,6 +3,9 @@ local M = {}
 M.exclude_filetypes = {
 	"",
 	"alpha",
+	"dbee",
+	"dbui",
+	"dbout",
 	"checkhealth",
 	"cmp_docs",
 	"cmp_menu",
