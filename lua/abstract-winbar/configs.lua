@@ -3,6 +3,9 @@ local M = {}
 M.exclude_filetypes = {
 	"",
 	"alpha",
+	"blink-cmp-documentation",
+	"blink-cmp-menu",
+	"blink-cmp-signature",
 	"checkhealth",
 	"cmp_docs",
 	"cmp_menu",
