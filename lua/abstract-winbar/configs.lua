@@ -53,6 +53,7 @@ M.exclude_filetypes = {
 	"packer",
 	"PlenaryTestPopup",
 	"qf",
+	"snacks_notif_history",
 	"spectre_panel",
 	"startify",
 	"TelescopePrompt",
