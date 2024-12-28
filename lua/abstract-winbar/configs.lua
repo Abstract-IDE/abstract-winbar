@@ -55,6 +55,7 @@ M.exclude_filetypes = {
 	"qf",
 	"snacks_notif",
 	"snacks_notif_history",
+	"snacks_terminal",
 	"spectre_panel",
 	"startify",
 	"TelescopePrompt",
